@@ -1,0 +1,9 @@
+---
+
+### 📌 `requirements.txt`
+```txt
+pandas
+numpy
+faker
+mysql-connector-python
+Azure BLob storage // for future use case;
